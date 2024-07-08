@@ -1,0 +1,41 @@
+I have a resume and I need to extract its content into a JSON format. The JSON should include sections for personal details, education, work experience, skills, and projects. Here is an reference resume:
+
+[Resume is uploaded along the prompt]
+
+Please parse this resume into the following JSON format:
+{
+  "personal_details": {
+    "name": "",
+    "contact_information": {
+      "email": "",
+      "phone": "",
+      "address": ""
+    }
+  },
+  "education": [
+    {
+      "degree": "",
+      "institution": "",
+      "year_of_completion": ""
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "",
+      "company": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": [""]
+    }
+  ],
+  "skills": [""],
+  "projects": [
+    {
+      "title": "",
+      "description": "",
+      "technologies_used": [""]
+    }
+  ]
+}
+
+
