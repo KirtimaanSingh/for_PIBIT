@@ -1,0 +1,74 @@
+{
+  "personal_details": {
+    "name": "Kirtimaan Singh",
+    "contact_information": {
+      "email": "kirtimaansingh13@gmail.com",
+      "phone": "+91 7027445575",
+      "address": ""
+    }
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "SRM Institute of Science and Technology",
+      "year_of_completion": "2025"
+    },
+    {
+      "degree": "High School/PCM",
+      "institution": "D.A.V. Centenary Public School",
+      "year_of_completion": "2021"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "Data Analyst Intern",
+      "company": "BSES Yamuna Power LTD.",
+      "start_date": "June 2023",
+      "end_date": "Jul 2023",
+      "responsibilities": [
+        "Developed automated data preprocessing tools for raw billing address data",
+        "Analyzed and processed nearly 200,000 rows of raw address data",
+        "Implemented fuzzy techniques and RNN models to automatically sanitize and preprocess raw data",
+        "Generated useful insights and visualized them using python libraries"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Engineering",
+    "Deep Learning",
+    "Data Visualisation",
+    "RDBMS",
+    "Linux",
+    "Git",
+    "Podman",
+    "TinkerCAD",
+    "TensorFlow",
+    "PyTorch",
+    "Keras",
+    "Caffe",
+    "Scikit-learn",
+    "OpenCV",
+    "NLTK",
+    "Python",
+    "C++",
+    "C",
+    "SQL"
+  ],
+  "projects": [
+    {
+      "title": "Computational Analysis on pharmaceutics research",
+      "description": "Led computational analysis in pharmaceutical research, developing tools for faster data preprocessing. Applied machine learning, probabilistic, and statistical methods to create neural networks for predictive validation and analysis.",
+      "technologies_used": ["Python", "TensorFlow", "Statistics", "sklearn"]
+    },
+    {
+      "title": "PV cells efficiency augmentation",
+      "description": "Developed a system to improve PV panel efficiency using embedded systems and IoT technologies. Collects real-time data on temperature, irradiance, and humidity, dynamically adjusts ambient conditions for optimal performance.",
+      "technologies_used": ["Embedded Systems", "Embedded C", "Python", "CAD"]
+    },
+    {
+      "title": "3D Object Detection Model",
+      "description": "Developed an advanced 3D object detection model that constructs real-time 3D bounding boxes around objects. The model uniquely operates without the need for LiDAR sensors or stereo cameras, leveraging monocular camera inputs for depth analysis.",
+      "technologies_used": ["Python", "OpenCV", "YOLO", "TensorFlow", "Mediapipe"]
+    }
+  ]
+}
